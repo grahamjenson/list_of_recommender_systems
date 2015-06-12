@@ -20,7 +20,8 @@ The SaaS recommender systems I have found are:
 8. [ParallelDots](http://www.paralleldots.com/) tool to relate published content
 9. [Amazon Machine Learning](http://aws.amazon.com/machine-learning/) machine learning platform to model data and create predictions
 10. [Azure ML](http://azure.microsoft.com/en-us/services/machine-learning/) machine learning platform to model data and create predictions
-
+11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Martin Vetes](https://www.linkedin.com/in/martonvertes))
+12. 
 ## Open Source Recommender Systems
 
 Most of the non-SaaS recommender systems that I came across were open-source. This may have been because recommender systems are more tailored to clients so not easily made into a product.
@@ -41,7 +42,6 @@ The open-source recommender systems I found are:
 Not very many Non-SaaS Non-OpenSource recommender systems seem to exist. Below is a list:
 
 1. [Dato](http://dato.com/) is a company that provides a python package and servers for business machine learning including many predictive algorithms for recommendations. They also integrate with [Apache Spark](http://blog.dato.com/using-apache-spark-with-graphlab-create) and have great blog posts like **[Why is building custom recommender systems hard? Does it have to be?](http://blog.dato.com/why-is-building-custom-recommender-systems-hard-does-it-have-to-be)**. Their customers include Pandora and StumbleUpon, must be a good product.
-2. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a product that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Martin Vetes](https://www.linkedin.com/in/martonvertes))
 
 ## Academic Recommender Systems
 
