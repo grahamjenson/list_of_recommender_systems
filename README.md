@@ -2,7 +2,7 @@
 
 Recommender systems (or recommendation engines) are useful and interesting pieces of software. I wanted to compare recommender systems to each other but could not find a decent list, so here is the one I created. Please help me keep this post up-to-date by submitting corrections and additions via pull-request, or tweet me [@grahamjenson](https://twitter.com/grahamjenson).
 
-# Software as a Service Recommender Systems
+## Software as a Service Recommender Systems
 
 SaaS Recommender systems have many challenges to their development including having to handle multi-tenancy, store and process a massive amount of data and other softer concerns like keeping a clients sensitive data safe on remote servers.
 
@@ -21,7 +21,7 @@ The SaaS recommender systems I have found are:
 9. [Amazon Machine Learning](http://aws.amazon.com/machine-learning/) machine learning platform to model data and create predictions
 10. [Azure ML](http://azure.microsoft.com/en-us/services/machine-learning/) machine learning platform to model data and create predictions
 
-# Open Source Recommender Systems
+## Open Source Recommender Systems
 
 Most of the non-SaaS recommender systems that I came across were open-source. This may have been because recommender systems are more tailored to clients so not easily made into a product.
 
@@ -36,14 +36,14 @@ The open-source recommender systems I found are:
 7. [LensKit](http://lenskit.org/) is a Java based research recommender system designed for small-to-medium scale. 
 8. [Oryx](https://github.com/cloudera/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
 
-# Non-Sass Product Recommender Systems
+## Non-Sass Product Recommender Systems
 
 Not very many Non-SaaS Non-OpenSource recommender systems seem to exist. Below is a list:
 
 1. [Dato](http://dato.com/) is a company that provides a python package and servers for business machine learning including many predictive algorithms for recommendations. They also integrate with [Apache Spark](http://blog.dato.com/using-apache-spark-with-graphlab-create) and have great blog posts like **[Why is building custom recommender systems hard? Does it have to be?](http://blog.dato.com/why-is-building-custom-recommender-systems-hard-does-it-have-to-be)**. Their customers include Pandora and StumbleUpon, must be a good product.
 2. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a product that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Martin Vetes](https://www.linkedin.com/in/martonvertes))
 
-# Academic Recommender Systems
+## Academic Recommender Systems
 
 Recommender systems are a very active area of research in academia, though few of the generated systems make it out of the lab. Here are a few I have found that did:
 
@@ -53,7 +53,7 @@ Recommender systems are a very active area of research in academia, though few o
 4. [LibRec](http://www.librec.net/) A Java based Recommendations engine with loads of implemented algorithms (suggested by [Saúl Vargas](http://www.dcs.gla.ac.uk/~saul/))
 5. [RankSys](http://ir-uam.github.io/RankSys/) Java Recommendation system for novelty and diversity created by [Saúl Vargas](http://www.dcs.gla.ac.uk/~saul/))
 
-# Benchmarking Recommender Systems
+## Benchmarking Recommender Systems
 
 It is very difficult to benchmark recommender systems, not only because getting good datasets is hard, but different methods and algorithms have different advantages and disadvantages that are dificult to expose.
 
@@ -63,7 +63,7 @@ Here is a list of some benchmarking tools:
 2. [RiVaL](http://rival.recommenders.net/) an open source toolkit for recommender system evaluation. Some results are posted [here](http://alans.se/blog/2014/rival/).
 
 
-# Media Recommendation Applications
+## Media Recommendation Applications
 
 In addition to generic recommender systems, I decided to add a list of applications where recommendations are a core offering, specifically in the domain of media recommendations:
 
