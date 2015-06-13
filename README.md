@@ -21,7 +21,8 @@ The SaaS recommender systems I have found are:
 9. [Amazon Machine Learning](http://aws.amazon.com/machine-learning/) machine learning platform to model data and create predictions
 10. [Azure ML](http://azure.microsoft.com/en-us/services/machine-learning/) machine learning platform to model data and create predictions
 11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Martin Vetes](https://www.linkedin.com/in/martonvertes))
-12. 
+12. [GraphFlow](http://graphflow.com/) provides is a user event analytics and recommendations API, with [integration](http://docs.woothemes.com/document/woocommerce-graphflow/) into the [WooCommerce(http://www.woothemes.com/woocommerce/) WordPress store] plugin. 
+
 ## Open Source Recommender Systems
 
 Most of the non-SaaS recommender systems that I came across were open-source. This may have been because recommender systems are more tailored to clients so not easily made into a product.
@@ -36,6 +37,7 @@ The open-source recommender systems I found are:
 6. [Seldon](http://www.seldon.io) is a Java based prediction engine built on technologies like [Apache Spark](https://spark.apache.org/). It provides a demo movie recommendations application [here](http://www.seldon.io/movie-demo/).
 7. [LensKit](http://lenskit.org/) is a Java based research recommender system designed for small-to-medium scale. 
 8. [Oryx](https://github.com/cloudera/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
+
 
 ## Non-Sass Product Recommender Systems
 
