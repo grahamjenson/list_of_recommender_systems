@@ -63,7 +63,7 @@ Here is a list of some benchmarking tools:
 
 1. [TagRec](https://github.com/learning-layers/TagRec) Tag Recommender Benchmarking Framework
 2. [RiVaL](http://rival.recommenders.net/) an open source toolkit for recommender system evaluation. Some results are posted [here](http://alans.se/blog/2014/rival/).
-
+3. [Idomaar](http://rf.crowdrec.eu/) is a reference framework for recommender algorithm testing. It is developet in the framework of the [CrowdRec](http://crowdrec.eu) project.
 
 ## Media Recommendation Applications
 
