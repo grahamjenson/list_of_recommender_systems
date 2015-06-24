@@ -20,7 +20,7 @@ The SaaS recommender systems I have found are:
 8. [ParallelDots](http://www.paralleldots.com/) tool to relate published content
 9. [Amazon Machine Learning](http://aws.amazon.com/machine-learning/) machine learning platform to model data and create predictions
 10. [Azure ML](http://azure.microsoft.com/en-us/services/machine-learning/) machine learning platform to model data and create predictions
-11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Martin Vetes](https://www.linkedin.com/in/martonvertes))
+11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Marton Vetes](https://www.linkedin.com/in/martonvertes))
 12. [GraphFlow](http://graphflow.com/) provides is a user event analytics and recommendations API, with [integration](http://docs.woothemes.com/document/woocommerce-graphflow/) into the [WooCommerce(http://www.woothemes.com/woocommerce/) WordPress store] plugin. 
 
 ## Open Source Recommender Systems
@@ -39,7 +39,7 @@ The open-source recommender systems I found are:
 8. [Oryx](https://github.com/cloudera/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
 9. [RecDB](http://www-users.cs.umn.edu/~sarwat/RecDB/) is a PostgreSQL extension to add recommendation algorithms like collaborative filtering directly into the database.
 
-## Non-Sass Product Recommender Systems
+## Non-SaaS Product Recommender Systems
 
 Not very many Non-SaaS Non-OpenSource recommender systems seem to exist. Below is a list:
 
