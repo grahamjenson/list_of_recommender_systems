@@ -22,6 +22,7 @@ The SaaS recommender systems I have found are:
 10. [Azure ML](http://azure.microsoft.com/en-us/services/machine-learning/) machine learning platform to model data and create predictions
 11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Marton Vetes](https://www.linkedin.com/in/martonvertes))
 12. [GraphFlow](http://graphflow.com/) provides is a user event analytics and recommendations API, with [integration](http://docs.woothemes.com/document/woocommerce-graphflow/) into the [WooCommerce(http://www.woothemes.com/woocommerce/) WordPress store] plugin. 
+13. [Dressipi Style Advisor](http://partners.dressipi.com/style-adviser.html) is a clothing specific recommendations service. It incorporates both expert domain knowledge and machine learning to find outfits for occasions or moods.
 
 ## Open Source Recommender Systems
 
