@@ -8,9 +8,9 @@ SaaS Recommender systems have many challenges to their development including hav
 
 The benefits to using a SaaS recommender system is that you can pay for value with a low overhead rather than having a large upfront investment, they generally have a clear integration path for you to use, and they provide continual development and improvement while you use it.
 
-The SaaS recommender systems I have found are:
+The SaaS recommender systems are:
 
-1. [Rcmmndr](http://www.rcmmndr.com/) which I first came across as a [Heroku add-on](https://devcenter.heroku.com/articles/rcmmndr). It is based on **Hadoop** but seems to be based *abandoned*
+1. [Rcmmndr](http://www.rcmmndr.com/) which is a [Heroku add-on](https://devcenter.heroku.com/articles/rcmmndr). It is based on **Hadoop** but seems to be based *abandoned*
 2. [Mortar Recommendation Engine](https://www.mortardata.com/recommendation-engine) is a kind of do-it-yourself recommender system, where by using their PaaS [Mortar](https://www.mortardata.com) and MongoDB there are instructions to create a recommender system.
 3. [Peerius](http://www.peerius.com/) closed, product and e-commerce focused for live and email recommendations. Active and seems very interesting, although little information about the actual product and how it works is available.
 4. [Strands](http://recommender.strands.com/) is a closed, product and e-commerce focused system. I think it works by including tracking scripts (a la Google Analytics) on the website, and recommendations widgets. What I really like about Strands is their publishing of case-studies e.g. [Wireless Emporium](http://retail.strands.com/customers/wireless-emporium-case-study/) and white papers like [The Big promise of recommender systems](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/2360/2232). Although these do not discuss the exact solutions provided, they give a good overview of their vision and goals of providing recommendations.
@@ -23,12 +23,13 @@ The SaaS recommender systems I have found are:
 11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Marton Vetes](https://www.linkedin.com/in/martonvertes))
 12. [GraphFlow](http://graphflow.com/) provides is a user event analytics and recommendations API, with [integration](http://docs.woothemes.com/document/woocommerce-graphflow/) into the [WooCommerce(http://www.woothemes.com/woocommerce/) WordPress store] plugin. 
 13. [Dressipi Style Advisor](http://partners.dressipi.com/style-adviser.html) is a clothing specific recommendations service. It incorporates both expert domain knowledge and machine learning to find outfits for occasions or moods.
+14. [Sajari](https://www.sajari.com/recommend) is a search, recommendation and matching (e.g. dating website) service. On their site, they also have aggregated a bunch of userful [data-sets](https://www.sajari.com/public-data).
 
 ## Open Source Recommender Systems
 
-Most of the non-SaaS recommender systems that I came across were open-source. This may have been because recommender systems are more tailored to clients so not easily made into a product.
+Most of the non-SaaS recommender systems that are open-source. This may have been because recommender systems are more tailored to clients so not easily made into a product.
 
-The open-source recommender systems I found are:
+The open-source recommender systems are:
 
 1. [PredictionIO](http://prediction.io/) is built on technologies [Apache Spark](https://spark.apache.org/), [Apache HBase](http://hbase.apache.org/) and [Spray](http://spray.io/). It is a machine learning server that can be used to create a recommender system. The source can be located on [github](https://github.com/PredictionIO/PredictionIO) and it looks very active.
 2. [Racoon Recommendation Engine](https://www.npmjs.org/package/raccoon) is an open source Node.js based collaborative filter that uses Redis as a store. It is effectively abandoned.
