@@ -77,3 +77,8 @@ In addition to generic recommender systems, I decided to add a list of applicati
 1. [TasteKid](http://www.tastekid.com/) movies, books, music recommendations. *sent to me by [thelinuxlich](https://github.com/thelinuxlich)*
 1. [Gnoosic](http://www.gnoosic.com/) music based on bands. *sent to me by [thelinuxlich](https://github.com/thelinuxlich)*
 1. [Pandora](http://www.pandora.com/) music recommendations based on likes and dislikes or songs
+
+
+## Books
+
+1. [Practical Recommender Systems](https://manning.com/books/practical-recommender-systems-cx) by Kim Falk (Manning Publications). [Chapter 1](https://manning.com/books/practical-recommender-systems-cx#downloads)
