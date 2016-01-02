@@ -40,6 +40,7 @@ The open-source recommender systems are:
 7. [LensKit](http://lenskit.org/) is a Java based research recommender system designed for small-to-medium scale. 
 8. [Oryx](https://github.com/cloudera/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
 9. [RecDB](http://www-users.cs.umn.edu/~sarwat/RecDB/) is a PostgreSQL extension to add recommendation algorithms like collaborative filtering directly into the database.
+10. [Crab](http://muricoca.github.io/crab/) a python recommender based on the popular packages numpy, scipy, matplotlib. The main repository seems to be *abandoned*.
 
 ## Non-SaaS Product Recommender Systems
 
