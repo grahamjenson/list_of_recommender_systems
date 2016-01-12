@@ -41,6 +41,7 @@ The open-source recommender systems are:
 8. [Oryx](https://github.com/cloudera/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
 9. [RecDB](http://www-users.cs.umn.edu/~sarwat/RecDB/) is a PostgreSQL extension to add recommendation algorithms like collaborative filtering directly into the database.
 10. [Crab](http://muricoca.github.io/crab/) a python recommender based on the popular packages numpy, scipy, matplotlib. The main repository seems to be *abandoned*.
+11. [predictor](https://github.com/Pathgather/predictor)is a ruby recommender gem. This uses Jaccard or Sorenson-Dice coefficient to priovide both item centric e.g. "Users that read this book also read ..." and user centric e.g. "You read these 10 books, so you might also like to read ..." recommendations. Looks a bit neglected.
 
 ## Non-SaaS Product Recommender Systems
 
