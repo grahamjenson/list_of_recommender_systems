@@ -21,9 +21,10 @@ The SaaS recommender systems are:
 9. [Amazon Machine Learning](http://aws.amazon.com/machine-learning/) machine learning platform to model data and create predictions
 10. [Azure ML](http://azure.microsoft.com/en-us/services/machine-learning/) machine learning platform to model data and create predictions
 11. [Gravity R&D](http://www.gravityrd.com/) is a company built by some of the winners from the 2009 Netflix prize. They offer a solution that provides targeted, customized recommendations to users of websites. They have some pretty big clients including [DailyMotion](http://www.gravityrd.com/projects#block-views-block-key-partners-key-partners) and a [technology page](http://www.gravityrd.com/technology) which describes their architecture, algorithms, and a list of publications. (suggested by [Marton Vetes](https://www.linkedin.com/in/martonvertes))
-12. [GraphFlow](http://graphflow.com/) provides is a user event analytics and recommendations API, with [integration](http://docs.woothemes.com/document/woocommerce-graphflow/) into the [WooCommerce(http://www.woothemes.com/woocommerce/) WordPress store] plugin. 
+12. [GraphFlow](http://graphflow.com/) provides is a user event analytics and recommendations API, with [integration](http://docs.woothemes.com/document/woocommerce-graphflow/) into the [WooCommerce WordPress store](http://www.woothemes.com/woocommerce/) plugin.
 13. [Dressipi Style Advisor](http://partners.dressipi.com/style-adviser.html) is a clothing specific recommendations service. It incorporates both expert domain knowledge and machine learning to find outfits for occasions or moods.
-14. [Sajari](https://www.sajari.com/recommend) is a search, recommendation and matching (e.g. dating website) service. On their site, they also have aggregated a bunch of userful [data-sets](https://www.sajari.com/public-data).
+14. [Sajari](https://www.sajari.com/recommend) is a search, recommendation and matching (e.g. dating website) service. On their site, they also have aggregated a bunch of useful [data-sets](https://www.sajari.com/public-data).
+15. [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/) is available through Watson Developer Cloud, which provides REST APIs ([Watson APIs on Bluemix](http://www.ibm.com/cloud-computing/bluemix/watson/)) and SDKs that use cognitive computing to solve complex problems.
 
 ## Open Source Recommender Systems
 
@@ -37,10 +38,10 @@ The open-source recommender systems are:
 4. [EasyRec](http://easyrec.org/) Java and Rest based recommendations. Abandoned
 5. [Mahout](http://mahout.apache.org/) Hadoop/linear algebra based data mining
 6. [Seldon](http://www.seldon.io) is a Java based prediction engine built on technologies like [Apache Spark](https://spark.apache.org/). It provides a demo movie recommendations application [here](http://www.seldon.io/movie-demo/).
-7. [LensKit](http://lenskit.org/) is a Java based research recommender system designed for small-to-medium scale. 
+7. [LensKit](http://lenskit.org/) is a Java based research recommender system designed for small-to-medium scale.
 8. [Oryx](https://github.com/cloudera/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
 9. [RecDB](http://www-users.cs.umn.edu/~sarwat/RecDB/) is a PostgreSQL extension to add recommendation algorithms like collaborative filtering directly into the database.
-10. [Crab](http://muricoca.github.io/crab/) a python recommender based on the popular packages numpy, scipy, matplotlib. The main repository seems to be *abandoned*.
+10. [Crab](http://muricoca.github.io/crab/) a python recommender based on the popular packages NumPy, SciPy, matplotlib. The main repository seems to be *abandoned*.
 11. [predictor](https://github.com/Pathgather/predictor)is a ruby recommender gem. This uses Jaccard or Sorenson-Dice coefficient to priovide both item centric e.g. "Users that read this book also read ..." and user centric e.g. "You read these 10 books, so you might also like to read ..." recommendations. Looks a bit neglected.
 
 ## Non-SaaS Product Recommender Systems
@@ -61,7 +62,7 @@ Recommender systems are a very active area of research in academia, though few o
 
 ## Benchmarking Recommender Systems
 
-It is very difficult to benchmark recommender systems, not only because getting good datasets is hard, but different methods and algorithms have different advantages and disadvantages that are dificult to expose.
+It is very difficult to benchmark recommender systems, not only because getting good datasets is hard, but different methods and algorithms have different advantages and disadvantages that are difficult to expose.
 
 Here is a list of some benchmarking tools:
 
