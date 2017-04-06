@@ -88,4 +88,4 @@ In addition to generic recommender systems, I decided to add a list of applicati
 
 ## Books
 
-1. [Practical Recommender Systems](https://manning.com/books/practical-recommender-systems-cx) by Kim Falk (Manning Publications). [Chapter 1](https://manning.com/books/practical-recommender-systems-cx#downloads)
+1. [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk (Manning Publications). [Chapter 1](https://manning-content.s3.amazonaws.com/download/d/fd45240-cdac-4a2a-bf01-392a34242a37/Falk_PRS_MEAP_V12_ch1.pdf)
