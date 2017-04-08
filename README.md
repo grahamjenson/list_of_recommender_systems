@@ -78,7 +78,7 @@ Here is a list of some benchmarking tools:
 
 In addition to generic recommender systems, I decided to add a list of applications where recommendations are a core offering, specifically in the domain of media recommendations:
 
-1. [Yeah, Nah](http://yeahnah.maori.geek.nz/) Movie recommendations site based on [GER](https://github.com/grahamjenson/ger) *[source](https://github.com/grahamjenson/yeahnah)*
+1. [Yeah, Nah](https://github.com/grahamjenson/yeahnah) Movie recommendations app based on [GER](https://github.com/grahamjenson/ger)
 1. [Jinni](http://www.jinni.com/) Movie recommendations site
 1. [Gyde](http://gyde.tv/) Streaming media recommendations
 1. [TasteKid](http://www.tastekid.com/) movies, books, music recommendations. *sent to me by [thelinuxlich](https://github.com/thelinuxlich)*
