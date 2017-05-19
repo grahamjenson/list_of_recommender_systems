@@ -27,6 +27,7 @@ The SaaS recommender systems are:
 15. [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/) is available through Watson Developer Cloud, which provides REST APIs ([Watson APIs on Bluemix](http://www.ibm.com/cloud-computing/bluemix/watson/)) and SDKs that use cognitive computing to solve complex problems.
 16. [Recombee](https://www.recombee.com/) provides REST API, SDKs for multiple languages and graphical user interface for evaluating results. Main features are real time model updates, easy to use query language for filtering and boosting according to complex business rules and advanced features such as options for getting diverse or rotated recommendations. Recombee offers instant account with 100k free recommendation requests per month.
 17. [Segmentify](https://www.segmentify.com/) Recommendation Engine, Personalization and Real-Time Analytics tool.
+18. [Mr. DLib](http://mr-dlib.org) A recommender-system as-a-service for academic organisations such as digital libraries and reference managers. Mr. DLib provides 'related-article' recommendations, is open-source, and publishes most of it's [data](http://data.mr-dlib.org)
 
 ## Open Source Recommender Systems
 
@@ -63,7 +64,6 @@ Recommender systems are a very active area of research in academia, though few o
 3. **Bonus:** [List of Recommender System Dissertations](http://www.recsyswiki.com/wiki/List_of_recommender_system_dissertations), a useful list to keep up with the current state of recommendations systems in academia
 4. [LibRec](http://www.librec.net/) A Java based Recommendations engine with loads of implemented algorithms (suggested by [Saúl Vargas](http://www.dcs.gla.ac.uk/~saul/))
 5. [RankSys](https://github.com/RankSys/RankSys) Java Recommendation system for novelty and diversity created by [Saúl Vargas](http://www.dcs.gla.ac.uk/~saul/))
-6. [Mr. DLib] (http://mr-dlib.org) A recommender-system as-a-service for academic organisations such as digital libraries and reference managers. Mr. DLib provides 'related-article' recommendations.
 
 ## Benchmarking Recommender Systems
 
