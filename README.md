@@ -46,7 +46,7 @@ The open-source recommender systems are:
 9. [RecDB](http://www-users.cs.umn.edu/~sarwat/RecDB/) is a PostgreSQL extension to add recommendation algorithms like collaborative filtering directly into the database.
 10. [Crab](http://muricoca.github.io/crab/) a python recommender based on the popular packages NumPy, SciPy, matplotlib. The main repository seems to be *abandoned*.
 11. [predictor](https://github.com/Pathgather/predictor)is a ruby recommender gem. This uses Jaccard or Sorenson-Dice coefficient to priovide both item centric e.g. "Users that read this book also read ..." and user centric e.g. "You read these 10 books, so you might also like to read ..." recommendations. Looks a bit neglected.
-12. [RecSys](https://github.com/Niourf/RecSys). A Python recommender package aimed towards researchers and students. Various well known recommenders are built-in (nearest neighbors, SVD), and implementation of new prediction algorithms is made easy.
+12. [Surprise](http://surpriselib.com) A Python scikit for building, and analyzing (collaborative-filtering) recommender systems. Various algorithms are built-in, with a focus on rating prediction.
 13. [LightFM](https://github.com/lyst/lightfm) is an actively-developed Python implementation of a number of collaborative- and content-based learning-to-rank recommender algorithms. Using Cython, it easily scales up to very large datasets on multi-core machines and is used in production at a number of companies, including [Lyst](https://www.lyst.com) and [Catalant](https://gocatalant.com/home).
 
 ## Non-SaaS Product Recommender Systems
