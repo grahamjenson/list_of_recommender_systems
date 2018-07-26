@@ -71,6 +71,8 @@ Recommender systems are a very active area of research in academia, though few o
 5. [RankSys](https://github.com/RankSys/RankSys) Java Recommendation system for novelty and diversity created by [Saúl Vargas](http://www.dcs.gla.ac.uk/~saul/))
 6. [LIBMF](https://www.csie.ntu.edu.tw/~cjlin/libmf/) A Matrix-factorization Library for Recommender Systems
 7. [proNet-core](https://github.com/cnclabs/proNet-core) A general-purpose network embedding framework which provides several factorization-based models for recommender systems
+8. [E-SECO](http://pgcc.github.io/plscience-ecos/) Software Ecosystem for Collaborative Scientific Experiments with scientific services/workflows recommendations.
+9. [m.knob](http://mknob.com/) The Multilingual Knowledge Base (m.knob) is an app based on a Conversational User Interface, GregBot, which acts as a virtual travel guide providing personalized recommendations of tourist attractions, events and activities
 
 ## Benchmarking Recommender Systems
 
