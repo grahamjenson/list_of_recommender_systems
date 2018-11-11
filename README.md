@@ -53,6 +53,7 @@ The open-source recommender systems are:
 18. [Spotlight](https://github.com/maciejkula/spotlight) utilizes factorization model and sequence model in the back end for building a basic recommendation system. It's a well-implemented Python framework.
 19. [recommenderlab](https://cran.r-project.org/web/packages/recommenderlab/index.html) provides a research infrastructure to test and develop recommender algorithms including UBCF, IBCF, FunkSVD and association rule-based algorithms.
 20. [CaseRecommender](https://github.com/caserec/CaseRecommender) is a Python implementation of a number of popular recommendation algorithms. The framework aims to provide a rich set of components from which you can construct a customized recommender system from a set of algorithms.
+21. [Recoder](https://github.com/amoussawi/recoder) is a Python package built with PyTorch for large-scale training of factorizaion models for collaborative filtering. For instance, you can get state-of-the-art results with an Autoencoder model fully trained on MovieLens-20M with implicit feedback in less than a minute. 
 
 ## Non-SaaS Product Recommender Systems
 
