@@ -95,7 +95,7 @@ In addition to generic recommender systems, I decided to add a list of applicati
 7. [Criticker](https://games.criticker.com/ ) Game and movie collaborative recs. *suggested by [ran88dom99](https://github.com/ran88dom99)*
 8. [movielens.org](https://movielens.org/) End user movie n book rec by lenskit people. *suggested by [ran88dom99](https://github.com/ran88dom99)*
 9. [MAL](https://myanimelist.net/) based [only similar users](http://affinity.animesos.net/)[rec](https://graph.anime.plus/) and [rec](http://www.animerecs.com/)  *suggested by [ran88dom99](https://github.com/ran88dom99)*
-10. [ContentWise](https://www.contentwise.tv/) UX management solution for broadcast, cable, satellite, OTT and streaming television. *suggested by [GiovanniPaoloGibilisco](https://github.com/GiovanniPaoloGibilisco)
+10. [ContentWise](https://www.contentwise.tv/) UX management solution for digital media entertainment. *suggested by [GiovanniPaoloGibilisco](https://github.com/GiovanniPaoloGibilisco)*
 ## Books
 
 1. [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk (Manning Publications). [Chapter 1](https://manning-content.s3.amazonaws.com/download/d/fd45240-cdac-4a2a-bf01-392a34242a37/Falk_PRS_MEAP_V12_ch1.pdf)
