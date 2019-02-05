@@ -10,7 +10,6 @@ The benefits to using a SaaS recommender system is that you can pay for value wi
 
 The SaaS recommender systems are:
 
-1. [SuggestGrid](http://www.suggestgrid.com/) which is the successor of [Rcmmndr](https://devcenter.heroku.com/articles/rcmmndr). SuggestGrid is a generic recommendation system. It is based on **Apache Spark** but has many improvements over it.
 1. [Peerius](http://www.peerius.com/) closed, product and e-commerce focused for live and email recommendations. Active and seems very interesting, although little information about the actual product and how it works is available.
 1. [Strands](http://recommender.strands.com/) is a closed, product and e-commerce focused system. I think it works by including tracking scripts (a la Google Analytics) on the website, and recommendations widgets. What I really like about Strands is their publishing of case-studies e.g. [Wireless Emporium](http://retail.strands.com/customers/wireless-emporium-case-study/) and white papers like [The Big promise of recommender systems](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/2360/2232). Although these do not discuss the exact solutions provided, they give a good overview of their vision and goals of providing recommendations.
 1. [SLI Systems Recommender](http://www.sli-systems.com/) A closed recommender system focused on e-commerce, search and mobile.
