@@ -31,6 +31,7 @@ Most of the non-SaaS recommender systems that are open-source. This may have bee
 
 The open-source recommender systems are:
 
+1. [The Universal Recommender](https://actionml.com/universal-recommender) Is built on the modern [Correlated Cross-Occurrence Algorithm](http://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) that uses many indicators of user taste, and so can target most use cases. Source on [github](https://github.com/actionml/harness/blob/develop/docs/ur_simple_usage.md) built-in to the [Harness ML](https://github.com/actionml/harness) server or as a template for the older PredictionIO server ([highest-rated template](http://predictionio.apache.org/gallery/template-gallery/)). Active and commercially supported.
 1. [PredictionIO](http://prediction.io/) is built on technologies [Apache Spark](https://spark.apache.org/), [Apache HBase](http://hbase.apache.org/) and [Spray](http://spray.io/). It is a machine learning server that can be used to create a recommender system. The source can be located on [github](https://github.com/PredictionIO/PredictionIO) and it looks very active.
 1. [Raccoon Recommendation Engine](https://www.npmjs.org/package/raccoon) is an open source Node.js based collaborative filter that uses Redis as a store. It is effectively abandoned.
 1. [HapiGER](http://www.hapiger.com/) is an open source Node.js collaborative filtering engine, which can use in-memory, [PostgreSQL](http://www.postgresql.org/) or [rethinkdb](http://rethinkdb.com/). Reasonably active development (when I have time :)
