@@ -54,6 +54,7 @@ The open-source recommender systems are:
 1. [CaseRecommender](https://github.com/caserec/CaseRecommender) is a Python implementation of a number of popular recommendation algorithms. The framework aims to provide a rich set of components from which you can construct a customized recommender system from a set of algorithms.
 1. [ProbQA](https://github.com/srogatch/ProbQA) is a C++/CUDA recommender system that uses Bayesian approach to learning how answers to its questions map to best recommendations of a target being searched. On GitHub it's available with an example of learning the binary search algorithm. Its application to a [video game recommendation system](http://probqa.com/) is available on the internet as a demo of the engine.
 1. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+1. [Gorse](https://gorse.io/) is an offline recommender system backend based on collaborative filtering written in Go. It implements mutiple rated or ranked based recommenders and multiple tools ranging from import/export tools to RESTful recommender server.
 
 ## Non-SaaS Product Recommender Systems
 
