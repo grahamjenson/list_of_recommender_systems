@@ -74,6 +74,7 @@ Recommender systems are a very active area of research in academia, though few o
 1. [LIBMF](https://www.csie.ntu.edu.tw/~cjlin/libmf/) A Matrix-factorization Library for Recommender Systems
 1. [proNet-core](https://github.com/cnclabs/proNet-core) A general-purpose network embedding framework which provides several factorization-based models for recommender systems
 1. [Devooght](https://github.com/rdevooght/sequence-based-recommendations) A repository containing collaborative-filtering algorithms based on sequences. 
+1. [Cornac](https://github.com/PreferredAI/cornac) A Python based comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data (developed by [Preferred.AI](https://preferred.ai/)). 
 
 ## Benchmarking Recommender Systems
 
