@@ -72,6 +72,7 @@ Recommender systems are a very active area of research in academia, though few o
 1. [LIBMF](https://www.csie.ntu.edu.tw/~cjlin/libmf/) A Matrix-factorization Library for Recommender Systems
 1. [proNet-core](https://github.com/cnclabs/proNet-core) A general-purpose network embedding framework which provides several factorization-based models for recommender systems
 1. [Devooght](https://github.com/rdevooght/sequence-based-recommendations) A repository containing collaborative-filtering algorithms based on sequences. 
+1. [GRU4Rec](https://github.com/hidasib/GRU4Rec) The original implementation of the algorithm proposed in *Session-based Recommendations with Recurrent Neural Networks* and its follow up in *Recurrent Neural Networks with Top-k Gains for Session-based Recommendations*
 
 ## Benchmarking Recommender Systems
 
@@ -102,4 +103,8 @@ In addition to generic recommender systems, I decided to add a list of applicati
 ## Books
 
 1. [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk (Manning Publications). [Chapter 1](https://manning-content.s3.amazonaws.com/download/d/fd45240-cdac-4a2a-bf01-392a34242a37/Falk_PRS_MEAP_V12_ch1.pdf)
-1. [Recommender Systems Handbook](https://dl.acm.org/citation.cfm?id=1941884) by Ricci, F. et al.
+2. [Recommender Systems Handbook](https://dl.acm.org/citation.cfm?id=1941884) by Ricci, F. et al.
+
+## Best Practices
+
+1. [Recommenders](https://github.com/microsoft/recommenders) examples and best practices for building recommendations systems by *Microsoft*. 
