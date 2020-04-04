@@ -10,11 +10,9 @@ The benefits to using a SaaS recommender system is that you can pay for value wi
 
 The SaaS recommender systems are:
 
-1. [SuggestGrid](http://www.suggestgrid.com/) which is the successor of [Rcmmndr](https://devcenter.heroku.com/articles/rcmmndr). SuggestGrid is a generic recommendation system. It is based on **Apache Spark** but has many improvements over it.
 1. [Peerius](http://www.peerius.com/) closed, product and e-commerce focused for live and email recommendations. Active and seems very interesting, although little information about the actual product and how it works is available.
 1. [Strands](http://recommender.strands.com/) is a closed, product and e-commerce focused system. I think it works by including tracking scripts (a la Google Analytics) on the website, and recommendations widgets. What I really like about Strands is their publishing of case-studies e.g. [Wireless Emporium](http://retail.strands.com/customers/wireless-emporium-case-study/) and white papers like [The Big promise of recommender systems](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/2360/2232). Although these do not discuss the exact solutions provided, they give a good overview of their vision and goals of providing recommendations.
 1. [SLI Systems Recommender](http://www.sli-systems.com/) A closed recommender system focused on e-commerce, search and mobile.
-1. [Google Cloud Prediction API](https://cloud.google.com/prediction/docs) Googles offering of cloud computed prediction API
 1. [Using Hadoop on Google Cloud](http://googlecloudplatform.blogspot.co.nz/2014/01/performance-advantages-of-the-new-google-cloud-storage-connector-for-hadoop.html) an example use of Google cloud with benchmarks from recommender system.
 1. [ParallelDots](http://www.paralleldots.com/) tool to relate published content
 1. [Amazon Machine Learning](http://aws.amazon.com/machine-learning/) machine learning platform to model data and create predictions
@@ -33,7 +31,8 @@ Most of the non-SaaS recommender systems that are open-source. This may have bee
 
 The open-source recommender systems are:
 
-1. [PredictionIO](http://prediction.io/) is built on technologies [Apache Spark](https://spark.apache.org/), [Apache HBase](http://hbase.apache.org/) and [Spray](http://spray.io/). It is a machine learning server that can be used to create a recommender system. The source can be located on [github](https://github.com/PredictionIO/PredictionIO) and it looks very active.
+1. [The Universal Recommender](https://actionml.com/universal-recommender) Is built on the modern [Correlated Cross-Occurrence Algorithm](http://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) that uses many indicators of user taste, and so can target most use cases. Source on [github](https://github.com/actionml/harness/blob/develop/docs/ur_simple_usage.md) built-in to the [Harness ML](https://github.com/actionml/harness) server or as a template for the older PredictionIO server ([highest-rated template](http://predictionio.apache.org/gallery/template-gallery/)). Active and commercially supported.
+1. [PredictionIO](https://predictionio.apache.org/) is built on technologies [Apache Spark](https://spark.apache.org/), [Apache HBase](http://hbase.apache.org/) and [Spray](http://spray.io/). It is a machine learning server that can be used to create a recommender system. The source can be located on [github](https://github.com/PredictionIO/PredictionIO) and it looks very active.
 1. [Raccoon Recommendation Engine](https://www.npmjs.org/package/raccoon) is an open source Node.js based collaborative filter that uses Redis as a store. It is effectively abandoned.
 1. [HapiGER](http://www.hapiger.com/) is an open source Node.js collaborative filtering engine, which can use in-memory, [PostgreSQL](http://www.postgresql.org/) or [rethinkdb](http://rethinkdb.com/). Reasonably active development (when I have time :)
 1. [EasyRec](http://easyrec.org/) Java and Rest based recommendations. Abandoned
@@ -53,6 +52,9 @@ The open-source recommender systems are:
 1. [Spotlight](https://github.com/maciejkula/spotlight) utilizes factorization model and sequence model in the back end for building a basic recommendation system. It's a well-implemented Python framework.
 1. [recommenderlab](https://cran.r-project.org/web/packages/recommenderlab/index.html) provides a research infrastructure to test and develop recommender algorithms including UBCF, IBCF, FunkSVD and association rule-based algorithms.
 1. [CaseRecommender](https://github.com/caserec/CaseRecommender) is a Python implementation of a number of popular recommendation algorithms. The framework aims to provide a rich set of components from which you can construct a customized recommender system from a set of algorithms.
+1. [ProbQA](https://github.com/srogatch/ProbQA) is a C++/CUDA recommender system that uses Bayesian approach to learning how answers to its questions map to best recommendations of a target being searched. On GitHub it's available with an example of learning the binary search algorithm. Its application to a [video game recommendation system](http://probqa.com/) is available on the internet as a demo of the engine.
+1. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+1. [Gorse](https://gorse.io/) is an offline recommender system backend based on collaborative filtering written in Go. It implements mutiple rated or ranked based recommenders and multiple tools ranging from import/export tools to RESTful recommender server.
 
 ## Non-SaaS Product Recommender Systems
 
@@ -73,6 +75,7 @@ Recommender systems are a very active area of research in academia, though few o
 1. [proNet-core](https://github.com/cnclabs/proNet-core) A general-purpose network embedding framework which provides several factorization-based models for recommender systems
 1. [Devooght](https://github.com/rdevooght/sequence-based-recommendations) A repository containing collaborative-filtering algorithms based on sequences. 
 1. [GRU4Rec](https://github.com/hidasib/GRU4Rec) The original implementation of the algorithm proposed in *Session-based Recommendations with Recurrent Neural Networks* and its follow up in *Recurrent Neural Networks with Top-k Gains for Session-based Recommendations*
+1. [Cornac](https://github.com/PreferredAI/cornac) A Python based comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data (developed by [Preferred.AI](https://preferred.ai/)). 
 
 ## Benchmarking Recommender Systems
 
