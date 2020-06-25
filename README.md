@@ -55,6 +55,7 @@ The open-source recommender systems are:
 1. [ProbQA](https://github.com/srogatch/ProbQA) is a C++/CUDA recommender system that uses Bayesian approach to learning how answers to its questions map to best recommendations of a target being searched. On GitHub it's available with an example of learning the binary search algorithm. Its application to a [video game recommendation system](http://probqa.com/) is available on the internet as a demo of the engine.
 1. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 1. [Gorse](https://gorse.io/) is an offline recommender system backend based on collaborative filtering written in Go. It implements mutiple rated or ranked based recommenders and multiple tools ranging from import/export tools to RESTful recommender server.
+1. [Nvidia Merlin](https://developer.nvidia.com/blog/announcing-nvidia-merlin-application-framework-for-deep-recommender-systems/) is an end-to-end recommender-on-GPU framework that aims to provide fast feature engineering and high training throughput to enable fast experimentation and production retraining of DL recommender models.
 
 ## Non-SaaS Product Recommender Systems
 
@@ -76,6 +77,7 @@ Recommender systems are a very active area of research in academia, though few o
 1. [Devooght](https://github.com/rdevooght/sequence-based-recommendations) A repository containing collaborative-filtering algorithms based on sequences. 
 1. [GRU4Rec](https://github.com/hidasib/GRU4Rec) The original implementation of the algorithm proposed in *Session-based Recommendations with Recurrent Neural Networks* and its follow up in *Recurrent Neural Networks with Top-k Gains for Session-based Recommendations*
 1. [Cornac](https://github.com/PreferredAI/cornac) A Python based comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data (developed by [Preferred.AI](https://preferred.ai/)). 
+
 
 ## Benchmarking Recommender Systems
 
