@@ -56,6 +56,7 @@ The open-source recommender systems are:
 1. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 1. [Gorse](https://gorse.io/) is an offline recommender system backend based on collaborative filtering written in Go. It implements mutiple rated or ranked based recommenders and multiple tools ranging from import/export tools to RESTful recommender server.
 1. [Nvidia Merlin](https://developer.nvidia.com/blog/announcing-nvidia-merlin-application-framework-for-deep-recommender-systems/) is an end-to-end recommender-on-GPU framework that aims to provide fast feature engineering and high training throughput to enable fast experimentation and production retraining of DL recommender models.
+1. [Implicit](https://github.com/benfred/implicit) Fast Python Collaborative Filtering for Implicit Datasets.
 
 ## Non-SaaS Product Recommender Systems
 
