@@ -38,7 +38,6 @@ The open-source recommender systems are:
 1. [EasyRec](http://easyrec.org/) Java and Rest based recommendations. Abandoned
 1. [Mahout](http://mahout.apache.org/) Hadoop/linear algebra based data mining
 1. [Seldon](http://www.seldon.io) is a Java based prediction engine built on technologies like [Apache Spark](https://spark.apache.org/). It provides a demo movie recommendations application [here](http://www.seldon.io/movie-demo/).
-1. [LensKit](http://lenskit.org/) is a Java based research recommender system designed for small-to-medium scale.
 1. [Oryx](https://github.com/OryxProject/oryx) [v2](https://github.com/OryxProject/oryx) a large scale architecture for machine learning and prediction (suggested by [Lorand](https://disqus.com/by/disqus_V9tbLHpUxp/))
 1. [RecDB](https://github.com/DataSystemsLab/recdb-postgresql) is a PostgreSQL extension to add recommendation algorithms like collaborative filtering directly into the database.
 1. [Crab](https://github.com/muricoca/crab) a python recommender based on the popular packages NumPy, SciPy, matplotlib. The main repository seems to be *abandoned*.
@@ -68,6 +67,7 @@ Not very many Non-SaaS Non-OpenSource recommender systems seem to exist. Below i
 
 Recommender systems are a very active area of research in academia, though few of the generated systems make it out of the lab. Here are a few I have found that did:
 
+1. [LensKit](http://lenskit.org/) LensKit is a set of Python tools for experimenting with and studying recommender systems.
 1. [Duine Framework](http://sourceforge.net/projects/duine/) a Java based recommendation system that has been abandoned
 1. [MyMediaLite](https://github.com/zenogantner/MyMediaLite) C# based in-memory recommender system that has been abandoned
 1. **Bonus:** [List of Recommender System Dissertations](http://www.recsyswiki.com/wiki/List_of_recommender_system_dissertations), a useful list to keep up with the current state of recommendations systems in academia
