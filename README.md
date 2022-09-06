@@ -25,6 +25,8 @@ The SaaS recommender systems are:
 1. [Segmentify](https://www.segmentify.com/) Recommendation Engine, Personalization and Real-Time Analytics tool.
 1. [Mr. DLib](http://mr-dlib.org) A recommender-system as-a-service for academic organisations such as digital libraries and reference managers. Mr. DLib provides 'related-article' recommendations, is open-source, and publishes most of it's [data](http://data.mr-dlib.org).
 1. [Rumo](https://www.rumo.co/) is a flexible SaaS recommendation system adaptable to all entertainment industries (films, music, podcasts, video games, sports, etc.) and based on both content metadata and user behaviors. Rumo's algorithms are transparent and explainable, providing full control over the recommendation process.
+1. [Froomle](https://www.froomle.ai/) is a modular recommendation platform, which focuses on serving news and e-commerce companies. They offer a variety of modules, optimized on their use case (f.e. discovery or related), business goal (f.e. CTR or conversion) and integration type (web, mail or push notifications). Their modules use state of the art machine learning techniques under the hood.
+
 
 ## Open Source Recommender Systems
 
