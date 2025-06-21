@@ -62,6 +62,7 @@ The open-source recommender systems are:
 1. [Alibaba EasyRec](https://github.com/alibaba/EasyRec) is a python recommender system that implements state of the art deep learning models used in common recommendation tasks: candidate generation(matching), scoring(ranking), and multi-task learning. It improves the efficiency of generating high performance models by simple configuration and hyper parameter tuning(HPO).
 1. [RecBole](https://github.com/RUCAIBox/RecBole) is a python library for recommender systems with more than 100 recommendation algorithms implemented.
 1. [LibRecommender](https://github.com/massquantity/LibRecommender) is an end-to-end recommender system. It contains a training and a serving module to let users quickly train and deploy different kinds of recommendation models.
+1. [Disco](https://github.com/ankane/disco) is a high-performance, open-source collaborative filtering library for Ruby and Rails applications. It supports both explicit and implicit feedback, and uses matrix factorization algorithms.
 
 ## Non-SaaS Product Recommender Systems
 
